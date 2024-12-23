@@ -22,6 +22,7 @@
 - coords: 55.752252, 36.806374
   title: Музей С. И. Танеева в Дютькове
   link: https://yandex.ru/maps/-/CHQyqF4E
+  img: taneev.jpg
 
 - coords: 55.733105, 36.840294
   title: Успенский собор в Городке
@@ -133,6 +134,7 @@
 - coords: 55.707168, 36.872188
   title: Усадьба Введенское
   link: https://yandex.ru/maps/-/CHQymJ~Q
+  img: vvedenskoe.jpg
 
 
 # To Golitsyno
