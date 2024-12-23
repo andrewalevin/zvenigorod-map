@@ -1,0 +1,36 @@
+
+######################################
+
+# 🌳 Zvenogorod
+  
+- coords: 55.728306, 36.816050
+  title: Саввино-Сторожевский монастырь
+  img: savvino-storochevskiy.png
+  kind: zvenigorod-town
+  
+- coords: 55.733105, 36.840294
+  title: Успенский собор в Городке
+  img: uspensky-sobor.png
+  kind: zvenigorod-town
+  
+- coords: 55.729897, 36.859526
+  title: Звенигородский манеж
+  img: zvenigorod-manesh.png
+  kind: zvenigorod-town
+  
+- coords: 55.730249, 36.852574
+  title: Дом кофейня
+  img: zvenigorod-dom.png
+  kind: zvenigorod-town
+  
+- coords: 55.700144, 36.723227
+  title: Биостанция МГУ
+  img: zvenigorod-biostation.png
+  kind: zvenigorod-town
+  
+- coords: 55.681699, 36.717964
+  title: Болота карьера Сима
+  img: zvenigorod-sima.png
+  kind: zvenigorod-town
+  
+
