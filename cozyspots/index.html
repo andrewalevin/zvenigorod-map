@@ -15,7 +15,6 @@
 
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
 
-    <link href="https://andrewalevin.github.io/mapbox-adventure/src/style.css" rel="stylesheet">
 
     <link href="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.css" rel="stylesheet">
     <script src="https://api.mapbox.com/mapbox-gl-js/v3.2.0/mapbox-gl.js"></script>
@@ -38,11 +37,12 @@
 
 
     <script>
-        let config = {
+        window.config = window.config || {
             mapboxToken: 'pk.eyJ1IjoiYW5kcmV3bGV2aW4iLCJhIjoiY2t5ZXM5c3cyMWJxYjJvcGJycmw0dGlyeSJ9.9QfCmimkyYicpprraBc-XQ',
             mapStyle:  'mapbox://styles/andrewlevin/clurjvodg013d01pe0fqncusu',
             mapZoom: 12,
             mapCenter: [55.711124, 36.789875],
+            spotDataYamlPath: 'data-1.yaml',
             routes: [
                 {'path': 'routes/polushkino.gpx', 'color': 'red', 'title': 'Полушкино',},
                 {'path': 'routes/chapaevka.gpx', 'color': 'limegreen'},
@@ -55,7 +55,8 @@
                 {'path': 'routes/uspenskoe.gpx', 'color': '#007FFF'},
                 {'path': 'routes/zaharovo.gpx', 'color': 'red'}
             ]
-        }
+        };
+
     </script>
 
     <script src="https://andrewalevin.github.io/mapbox-adventure/src/cozyspots-v2.2.js"></script>
