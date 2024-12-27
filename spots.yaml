@@ -76,6 +76,13 @@
 - coords: 55.620465, 36.368776
   title: Подвесной мост в Ожигово
   link: https://yandex.ru/maps/-/CHQymHkb
+  img: most-ochigovo.jpg
+
+
+- coords: 55.641542, 36.304367
+  title: Подвесной мост в Дорохово
+  link: https://yandex.ru/maps/-/CHQWYX74
+  img: most-dorochovo.jpg
 
 
 - coords: 55.608452, 36.426499
@@ -87,6 +94,7 @@
 - coords: 55.619914, 36.489340
   title: Мост в Игнатьево
   link: https://yandex.ru/maps/-/CHQymWJq
+  img: most-ignatevo.jpg
 
 
 - coords: 55.607456, 36.530802
