@@ -20,9 +20,9 @@ jobs:
       
     - name: 🥒 Resize
       run: |
-        impressify cozyspots/imgs 100
-        impressify cozyspots/imgs 200
-        impressify cozyspots/imgs 220
+        impressify imgs 100
+        impressify imgs 200
+        impressify imgs 220
 
     - name: 🍒 Git Auto Commit
       uses: stefanzweifel/git-auto-commit-action@v5
