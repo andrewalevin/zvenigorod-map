@@ -148,6 +148,18 @@
   img: vvedenskoe.jpg
 
 
+- coords: 55.722003, 36.936503
+  title: Дом-музей М.М. Пришвина
+  link: https://yandex.ru/maps/-/CHUJNZZ0
+  img: psrishvin.jpg
+  about: Посещение по записи
+
+- coords: 55.723312, 36.938756
+  title: Дунинский археологической комплекс
+  link: https://yandex.ru/maps/-/CHUJNTZ7
+  img: dunino.jpg
+
+
 # To Golitsyno
 
 - coords: 55.646115, 36.969831
